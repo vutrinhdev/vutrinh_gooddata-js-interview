@@ -1,6 +1,6 @@
 ### Initialization
 
-2. Run `cd gooddata-js-interview-master`.
+2. Run `cd vutrinh_gooddata-js-interview`.
 3. Run `yarn install`.
 4. Run `yarn start`.
 5. Visit https://localhost:3000/account.html, and log in using your GoodData account credentials.
